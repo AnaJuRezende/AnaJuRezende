@@ -1,16 +1,20 @@
-### Hi there 👋
+### Oi oi, sou a Ana Júlia Rezende 👋
 
-<!--
-**AnaJuRezende/AnaJuRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente sou estudante universitária de TI
+- 🌱 Estudando python e c
+- 👯 Procurando estágio
+- 📫 email: aninhajulia.rezende@gmail.com
+- 😄 Pronome: ela/dela
 
-Here are some ideas to get you started:
+<div> 
+  <a href="https://instagram.com/ninha.ju" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:aninhajulia.rezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-novo-rezende-405233243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Ana-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1088151195127914689/1088582959210176647/download20230304183636.png">
+  <img align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Ana-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+</div>
