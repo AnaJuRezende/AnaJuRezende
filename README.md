@@ -1,4 +1,4 @@
-### Oi oi, sou a Ana Júlia Rezende 👋
+### Oi oi, sou a Ana Júlia Rezende!
 
 - 🔭 Atualmente sou estudante universitária de TI
 - 🌱 Estudando python e c
