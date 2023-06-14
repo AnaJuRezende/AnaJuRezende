@@ -1,7 +1,7 @@
 ### Oi oi, sou a Ana Júlia Rezende!
 
 - Atualmente sou estudante universitária de TI
-- Estudando Python e C
+- Estudando Python, C e Java
 - Procurando estágio
 -  Rio de Janeiro - RJ
 - aninhajulia.rezende@gmail.com
