@@ -1,11 +1,10 @@
 ### Oi oi, sou a Ana Júlia Rezende!
 
-- 🔭 Atualmente sou estudante universitária de TI
-- 🌱 Estudando Python e C
-- 👯 Procurando estágio
-- 📫 residência: Rio de Janeiro - RJ
-- 📫 email: aninhajulia.rezende@gmail.com
-- 😄 Pronome: ela/dela
+- Atualmente sou estudante universitária de TI
+- Estudando Python e C
+- Procurando estágio
+-  Rio de Janeiro - RJ
+- aninhajulia.rezende@gmail.com
 
 <div> 
   <a href="https://instagram.com/ninha.ju" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
