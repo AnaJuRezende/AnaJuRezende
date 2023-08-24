@@ -3,7 +3,7 @@
 - Atualmente sou estudante universitária de TI
 - Estudando Python, C e Java
 - Procurando estágio
--  Rio de Janeiro - RJ
+- Rio de Janeiro - RJ
 - aninhajulia.rezende@gmail.com
 
 <div> 
