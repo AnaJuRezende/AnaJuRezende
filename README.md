@@ -15,5 +15,5 @@
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Ana-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="right" alt="Ana-Pic" height="30" width="40" src="https://discord.com/channels/1088151194473615372/1168766594932015154/1168766813153263696" />
+  <img align="right" alt="Ana-Pic" height="50" width="50" src="https://discord.com/channels/1088151194473615372/1168766594932015154/1168766813153263696" />
 </div>
