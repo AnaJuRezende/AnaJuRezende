@@ -2,7 +2,7 @@
 
 - Atualmente sou Desenvolvedora de Software Fullstack.
 - Formada em Análise e Desenvolvimento de Software.
-- Eu faço programas em Python, HTML, CSS, JavaScript, C e Java.
+- Eu faço programas em Python, Java, HTML, CSS, JavaScript e C.
 - Rio de Janeiro - RJ.
 - aninhajulia.rezende@gmail.com
 
@@ -17,4 +17,5 @@
   <img align="center" alt="Ana-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Ana-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ana-JS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Ana-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
