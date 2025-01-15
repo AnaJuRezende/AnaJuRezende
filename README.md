@@ -2,7 +2,7 @@
 
 - Atualmente sou Desenvolvedora de Software Fullstack.
 - Formada em Análise e Desenvolvimento de Software.
-- Eu faço programas em Python, HTML, CSS, JavaScript e Java.
+- Eu faço programas em Python, HTML, CSS, JavaScript, C e Java.
 - Rio de Janeiro - RJ.
 - aninhajulia.rezende@gmail.com
 
